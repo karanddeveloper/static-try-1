@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #fdebd3; 
+    background-color: #0583d2; 
 }
 
 .container {
@@ -17,7 +17,7 @@ body {
 }
 
 .business-card {
-    background-color: #fdebd3; 
+    background-color: #a2e4f5; 
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
